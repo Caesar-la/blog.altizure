@@ -11,6 +11,8 @@ categories:
 
     new test for personal
 
+    second time add someting
+
 2016 年是 Altizure 上线来第一个完整的年份，值得铭记。我们在这一年里推陈出新，锐意进取。在技术上无论是 Altizure.com 的三维重建引擎还是 Altizure App 都获得了长足的进步。同时来至世界各地的热情用户和优质三维作品不停地激励着我们的所有的团队成员。一起来回顾一下 Altizure 的非凡 2016。 
 
 <center>
